@@ -1,3 +1,4 @@
 # Fortaleza de la soledad
 
-lugar iconico en el universo
+## lugar
+construido en cristales de zzz
